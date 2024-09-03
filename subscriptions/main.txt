@@ -1,1 +1,1 @@
-vless://08eca8a9-4135-4d36-848b-10e3e088ac9a@185.155.72.119:17132?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNGVPN
+vless://telegram-id-ArV2ray@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cqou1.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS2-ALL|@ArV2ray
